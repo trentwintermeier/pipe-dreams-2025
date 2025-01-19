@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "4a46369b-ccb3-439d-85ce-21a509fd5c8e": {
+      "label": "Sonora, Nov 23",
+      "is_offline": false,
+      "file_url": "https://ia804602.us.archive.org/35/items/pipe-dreams/1_sonora_23rd_745am.mp3",
+      "duration": 43
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "Sonora, Nov 23",
+  "created_at": "2025-01-19T17:34:38.835Z",
+  "created_by": "trentwintermeier",
+  "updated_at": "2025-01-19T17:34:38.835Z",
+  "updated_by": "trentwintermeier"
+}

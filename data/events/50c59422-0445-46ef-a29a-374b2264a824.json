@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "4be9837c-fac0-4e60-ad31-645b50449b04": {
+      "label": "Marathon, Nov 23",
+      "is_offline": false,
+      "file_url": "https://ia804602.us.archive.org/35/items/pipe-dreams/4_desert_silence.mp3",
+      "duration": 40
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "Marathon, Nov 23",
+  "created_at": "2025-01-19T17:34:38.835Z",
+  "created_by": "trentwintermeier",
+  "updated_at": "2025-01-19T17:34:38.835Z",
+  "updated_by": "trentwintermeier"
+}

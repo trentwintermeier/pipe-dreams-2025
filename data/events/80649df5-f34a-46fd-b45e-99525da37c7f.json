@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "b894bc1f-3a55-48db-9333-1114cdd1b2c3": {
+      "label": "Coyonosa, Nov 23",
+      "is_offline": false,
+      "file_url": "https://ia804602.us.archive.org/35/items/pipe-dreams/6_waha_23rd_1130am.mp3",
+      "duration": 24
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "Coyonosa, Nov 23",
+  "created_at": "2025-01-19T17:34:38.835Z",
+  "created_by": "trentwintermeier",
+  "updated_at": "2025-01-19T17:34:38.835Z",
+  "updated_by": "trentwintermeier"
+}

@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "036c747b-3d52-415d-b35d-cd970a43d65c": {
+      "label": "Terlingua, Nov 24",
+      "is_offline": false,
+      "file_url": "https://ia904602.us.archive.org/35/items/pipe-dreams/10_terlingua_25th_8am.mp3",
+      "duration": 181
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "Terlingua, Nov 24",
+  "created_at": "2025-01-19T17:34:38.835Z",
+  "created_by": "trentwintermeier",
+  "updated_at": "2025-01-19T17:34:38.835Z",
+  "updated_by": "trentwintermeier"
+}
