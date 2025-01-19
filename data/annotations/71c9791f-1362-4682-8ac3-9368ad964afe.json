@@ -1,5 +1,212 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On a long driving day, we traveled to the Waha Hub, a major intersection of national and international gas pipelines around the Permian Basin—just north of Coyanosa, Texas. It’s absolutely colorless and lacking vibrancy of any sort. It sounds manufactured and unnatural, like a cacophony of pumps and fans, which look to be in service of at least ten natural gas processing plants."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Note",
+          "category": "Note"
+        }
+      ],
+      "uuid": "5b38dbfb-2c76-4ed4-a466-9de71c3b6952"
+    },
+    {
+      "start_time": 1,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A natural gas processing plant sprays out low-frequency sound; a mix of fans and pumps. It is joined by other sounds from the ten or more plants that line the road. The size of this plant is small, yet acoustically it comes off very large because of the resonance of the hum. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "aace4be0-3553-40b4-ae44-562063268e41"
+    },
+    {
+      "start_time": 10,
+      "end_time": 10,
+      "annotation": [
+        {
+          "text": ""
+        },
+        {
+          "text": "Photograph of a small, white station where the pressure of the gas pipeline can be measured. In the distance is a large gas processing plant with large ducts, fans, and tubes, producing an enormous amount of sound in the recording."
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Photograph",
+          "category": "Photograph"
+        }
+      ],
+      "uuid": "51455afb-c5bf-42a4-9676-38821c0d48c5"
+    },
+    {
+      "start_time": 13,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The sound changes very slightly as the shotgun microphone pans across different points of the plant.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "3677952e-8aa9-49aa-b22f-5717273d80ce"
+    },
+    {
+      "start_time": 18,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "These plants stand alone; in every direction beyond the facility, pipelines extend underground in varying directions. Nothing can be built on top of them, so there are large colorless patches of something that used to be dirt around the entire Hub."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Note",
+          "category": "Note"
+        }
+      ],
+      "uuid": "7f5870af-2f2b-40df-a7d8-2ae17c7c2efd"
+    },
+    {
+      "start_time": 19,
+      "end_time": 21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some sort of belt grinds and experiences a squeaky friction. It's barely audible over the hum of the plant's different operations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "e99ec98e-94e4-4768-b04c-9a90e3b79446"
+    },
+    {
+      "start_time": 21,
+      "end_time": 21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The only color comes from caution and warning signs: “poison gas.” They’re everywhere in bright yellow. It smells like rotten eggs. It sounds like a noisy factory operating in every direction. But then: there are large plain fields, under which these pipelines cover. In their support, everything has died on top. The dirt breaks up under our feet and flies up immediately as dust, floating away. Ephemeral nothingness, everything sucked out of it. Absent of anything but the impact of natural gas infrastructure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Note",
+          "category": "Note"
+        }
+      ],
+      "uuid": "9f0f3c13-e6bf-407b-a4a1-00e29e0f3309"
+    },
+    {
+      "start_time": 22,
+      "end_time": 22,
+      "annotation": [
+        {
+          "text": ""
+        },
+        {
+          "text": "A wood and wire fenceline is in the foreground of the photograph, with a large, open wasteland of dirt in the background. The land is uninabited because of the pipelines underneath, which make up a large infrastructural network within and beyond the Waha Hub."
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Photograph",
+          "category": "Photograph"
+        }
+      ],
+      "uuid": "834b9c0f-d39e-48df-857d-713d74e12d39"
+    },
+    {
+      "start_time": 22,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We’re not sure how everything can be there—all of these important pipelines—yet everything else is absent. An abundance of danger marked by bright signs, yet absolutely no activity, life, or movement for miles."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Note",
+          "category": "Note"
+        }
+      ],
+      "uuid": "613ddc33-14b8-4b86-95a1-75c96f317dbf"
+    },
+    {
+      "start_time": 24,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The recording stops seemingly abruptly as the plant continues to produce sound. The immediate break between sound and silence is artificial, as the hum of natural gas plants are never temporary."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "edb21122-4b92-48f6-bf0f-75209d1a220e"
+    }
+  ],
   "set": "Default",
   "event_id": "80649df5-f34a-46fd-b45e-99525da37c7f",
   "source_id": "b894bc1f-3a55-48db-9333-1114cdd1b2c3"
