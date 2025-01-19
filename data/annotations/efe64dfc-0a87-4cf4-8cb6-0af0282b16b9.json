@@ -237,7 +237,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "https://github.com/trentwintermeier/pipe-dreams-2025/blob/396e63470c329d2461f906f58ec0c0c85e0da9f3/assets/images/0006416_0006416-R1-E005.jpg"
+              "text": "<figure><img src=\"assets/images/0006416_0006416-R1-E005.jpg\" width=\"800\" height=\"500\" <figcaption>Grainy photograph of the compressor station with the sun rising in the distance.</figcaption></figure>"
             }
           ]
         }
