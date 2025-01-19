@@ -228,6 +228,27 @@
         }
       ],
       "uuid": "0e56266f-486e-417c-a6c7-94ded89bf21d"
+    },
+    {
+      "start_time": 6,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "https://github.com/trentwintermeier/pipe-dreams-2025/blob/396e63470c329d2461f906f58ec0c0c85e0da9f3/assets/images/0006416_0006416-R1-E005.jpg"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Photograph",
+          "category": "Photograph"
+        }
+      ],
+      "uuid": "90565dee-1642-49d4-b583-1213adeaf7fd"
     }
   ],
   "set": "Default",
