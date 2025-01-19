@@ -1,5 +1,235 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A video of the sunrise over the mountains seperating Terlingua from Big Bend National Park."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Video",
+          "category": "Video"
+        }
+      ],
+      "uuid": "213433df-5508-497b-8e26-4749d9a5adb8"
+    },
+    {
+      "start_time": 0,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The recording begins with a unknown sound similar to a gas pipeline facility, but it turns out to be a passing car. Once the first car leaves, another passes by in the other direction, just a few seconds later. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "c3e81fdc-b552-4454-9f4c-ebded4e55a02"
+    },
+    {
+      "start_time": 41,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pipelines are absent themselves in parts of Texas, such as around Big Bend National Park. Terlingua, Texas—a small town of a couple hundred, west of the Park—is haunted by the underground which is filled with quicksilver, a material mined for years in the town by companies like Chisos Mining Company."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Note",
+          "category": "Note"
+        }
+      ],
+      "uuid": "2e08ad40-6488-4719-827a-ec3c0b332b0c"
+    },
+    {
+      "start_time": 61,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We drive into the town, where we stay at an AirBnB in the Ghost Town. Water is scarce here, too, of course, so we can’t shower. There wasn’t enough rain this past year, so the host recommends keeping our hands off all faucets in the house. It’s unclear how much drinking water is left underground with the quicksilver; it could be hundreds of years, or not even one."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Note",
+          "category": "Note"
+        }
+      ],
+      "uuid": "6dd37ef1-deba-4a5d-a86e-adeff97c28ab"
+    },
+    {
+      "start_time": 77,
+      "end_time": 128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Multiple cars travel down the road. They are almost out of a visible range, but due to the silence of the recording site, there are picked by the microphone hundreds of feet away. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "8fc665b5-6df1-4101-9d02-f236156491d3"
+    },
+    {
+      "start_time": 130,
+      "end_time": 138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A dog is barking, and it become muffled by a passing car."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "38de33cb-f5f5-4f96-856a-f7e8ee47e652"
+    },
+    {
+      "start_time": 140,
+      "end_time": 160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Either way, tourists continue to visit (bringing their own water; not to share, of course), mainly to visit the historic and haunted cemetery. When we visit, the gravesites make a border for kids of tourists to run around while playing tag, giggling. Under the site and around the kids’ feet are the buried remains of Chisos Mining Co workers, who often were crushed to death in collapsing mines."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Note",
+          "category": "Note"
+        }
+      ],
+      "uuid": "173cc45e-346b-4a82-a645-33751733a85a"
+    },
+    {
+      "start_time": 162,
+      "end_time": 163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The dog can be heard barking again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "aa812cb3-de57-4d93-a069-a0366b305144"
+    },
+    {
+      "start_time": 165,
+      "end_time": 165,
+      "annotation": [
+        {
+          "text": ""
+        },
+        {
+          "text": "Photograph of multiple grave sites with wooden crosses breaking through the sunlight, which distorts the visibility of the objects, headstones, and people in the cemetary. "
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Photograph",
+          "category": "Photograph"
+        }
+      ],
+      "uuid": "4cab1465-4034-40e0-8006-509cb2eba84a"
+    },
+    {
+      "start_time": 166,
+      "end_time": 170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Remaining underground, the non-presences of the cemetery serves to remind locals of their past, which haunts them today. We notice how tourists visit the location, live off of their single grocery store—making prices of lotion and eggs more than fifteen dollars each. We are them, as we only spend a day there. Absence of life in the past of Terlingua is a non-presence of life around this desert town."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Note",
+          "category": "Note"
+        }
+      ],
+      "uuid": "c849c40d-1d97-40c1-bd5e-ee963552a949"
+    },
+    {
+      "start_time": 175,
+      "end_time": 181,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A final car passes by."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "8259326e-0704-4923-bdcf-024cb3e48e34"
+    }
+  ],
   "set": "Default",
   "event_id": "8657e40b-346e-4f3b-8edd-9a05ce5af4cc",
   "source_id": "036c747b-3d52-415d-b35d-cd970a43d65c"
