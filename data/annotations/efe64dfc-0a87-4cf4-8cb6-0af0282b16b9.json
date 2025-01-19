@@ -1,5 +1,254 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The earliest morning is the first day. We can’t sleep, so we’re out by four in the morning, exploring the small city of Sonoma, Texas. Only minutes south of the city center—which is only one hotel off the highway, closed auto body shops, and a convenience store—there are unique gas pipeline networks throughout the tree-lined hills."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Note",
+          "category": "Note"
+        }
+      ],
+      "uuid": "41a6a9a2-ca2f-4c94-800a-6f08802c7397"
+    },
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The hum of a natural gas compressor station drones on. It sounds full, the sound. We're about twenty feet away from the large tanks. The sun is rising in the back, just over the tree-lined hills."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "6218ce88-49cf-4d61-84fd-73b1460f6a84"
+    },
+    {
+      "start_time": 6,
+      "end_time": 6,
+      "annotation": [
+        {
+          "text": ""
+        },
+        {
+          "text": "Grainy photograph of the compressor station with the sun rising in the distance."
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Photograph",
+          "category": "Photograph"
+        }
+      ],
+      "uuid": "344280b3-2775-4c71-bbe0-adf1a2978b79"
+    },
+    {
+      "start_time": 7,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A car whizzes by, going north. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "571604dd-782a-4a7e-97f2-9dfd40cd4d54"
+    },
+    {
+      "start_time": 8,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The pipelines are only to be located through gashes in the surface of the Earth. To spot them, we learn that we don’t need to look for a sign or listen for a sound. Instead, we need to look for breaks and missing chunks."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Note",
+          "category": "Note"
+        }
+      ],
+      "uuid": "fa979c10-540d-4a12-8e48-c3959f46a480"
+    },
+    {
+      "start_time": 18,
+      "end_time": 23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A second car whizzes by, going south. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "98931029-439b-4ab9-b8bd-8241fcd2986b"
+    },
+    {
+      "start_time": 25,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We steadily twist our wrist, re-orienting the Zoom and shotgun microphone to record a second tank. Gas is popping around inside of the steel walls. The longer we listen, the more we hear a high-pitched sound hiding amongst the acoustics of the station. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "0d39385a-accb-4205-b39f-a51e2d1b4965"
+    },
+    {
+      "start_time": 27,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Since pipelines are, for the most part, buried underground, we turn to the surface to reveal what may or may not be hiding under us. Like roadkill just beyond the white lines of street roads, a perimeter of tree lines signify presence. Manufactured and artificial presence—the lack of a natural landscape."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Note",
+          "category": "Note"
+        }
+      ],
+      "uuid": "f6eba845-1ff0-462c-a358-5576bc833a4f"
+    },
+    {
+      "start_time": 39,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A third car going north, into Sonoma, begins to approach the site. The tires flap agains the concrete in the back. We see the \"No Trespassing\" signs that make up the perimeter of the station, and realize the risk of surveilling property in Texas. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "25a2e570-5948-46ca-bd19-0240eec9902b"
+    },
+    {
+      "start_time": 41,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Frictions that are below and above ground emerge from something that may not exist. We notice that the tension between perimeters is responsible for the affective force of high-pressure natural gas pipelines."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Note",
+          "category": "Note"
+        }
+      ],
+      "uuid": "ead9b895-4094-4eb0-a384-a203af9d108a"
+    },
+    {
+      "start_time": 42,
+      "end_time": 42,
+      "annotation": [
+        {
+          "text": ""
+        },
+        {
+          "text": "Photograph of the landscape opposite of the compressor station. The break in the landscape signals the gas pipeline running to the compressor station."
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Photograph",
+          "category": "Photograph"
+        }
+      ],
+      "uuid": "0567b203-d5a5-4e6c-975a-4f9fc298ae99"
+    },
+    {
+      "start_time": 43,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The recording ends"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audio",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "0e56266f-486e-417c-a6c7-94ded89bf21d"
+    }
+  ],
   "set": "Default",
   "event_id": "8371bfa5-bbcb-45e5-8c5e-91c3401f85fe",
   "source_id": "4a46369b-ccb3-439d-85ce-21a509fd5c8e"
