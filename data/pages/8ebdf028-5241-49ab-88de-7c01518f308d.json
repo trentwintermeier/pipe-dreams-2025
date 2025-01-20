@@ -237,24 +237,6 @@
           "text": ""
         }
       ]
-    },
-    {
-      "type": "image",
-      "url": "assets/images/0006416_0006416-R1-E005.jpg",
-      "size": "medium",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
     }
   ],
   "title": "Transcript",
@@ -265,6 +247,6 @@
   "slug": "transcript",
   "created_at": "2025-01-20T15:27:36.590Z",
   "created_by": "trentwintermeier",
-  "updated_at": "2025-01-20T15:30:26.673Z",
+  "updated_at": "2025-01-20T16:29:18.802Z",
   "updated_by": "trentwintermeier"
 }
