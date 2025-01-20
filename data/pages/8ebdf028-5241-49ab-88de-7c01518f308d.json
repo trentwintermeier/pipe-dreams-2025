@@ -240,7 +240,7 @@
     },
     {
       "type": "image",
-      "url": "https://github.com/trentwintermeier/pipe-dreams-2025/blob/ac007a6a61ba88deb8456fe8b87b4ddbfcb409e1/assets/images/0006416_0006416-R1-E005.jpg",
+      "url": "assets/images/0006416_0006416-R1-E005.jpg",
       "size": "medium",
       "children": [
         {
@@ -265,6 +265,6 @@
   "slug": "transcript",
   "created_at": "2025-01-20T15:27:36.590Z",
   "created_by": "trentwintermeier",
-  "updated_at": "2025-01-20T15:27:36.590Z",
+  "updated_at": "2025-01-20T15:30:26.673Z",
   "updated_by": "trentwintermeier"
 }
