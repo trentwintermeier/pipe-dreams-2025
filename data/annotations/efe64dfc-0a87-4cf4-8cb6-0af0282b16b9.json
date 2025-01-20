@@ -245,14 +245,6 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "https://ia804602.us.archive.org/17/items/pipe-dreams-images/0006416_0006416-R1-E005.jpg"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
               "text": ""
             }
           ]
@@ -261,23 +253,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "<img src=\"https://ia804602.us.archive.org/17/items/pipe-dreams-images/0006416_0006416-R1-E005.jpg\" "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "         alt=\"Descriptive text about the image\" "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "         style=\"max-width: 100%; height: auto;\">"
+              "text": "https://ia804602.us.archive.org/17/items/pipe-dreams-images/0006416_0006416-R1-E005.jpg\" ",
+              "link": "https://ia804602.us.archive.org/17/items/pipe-dreams-images/0006416_0006416-R1-E005.jpg\" "
             }
           ]
         }
