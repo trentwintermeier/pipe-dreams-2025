@@ -64,27 +64,6 @@
       "uuid": "e99ec98e-94e4-4768-b04c-9a90e3b79446"
     },
     {
-      "start_time": 22,
-      "end_time": 24,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "We’re not sure how everything can be there—all of these important pipelines—yet everything else is absent. An abundance of danger marked by bright signs, yet absolutely no activity, life, or movement for miles."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Note",
-          "category": "Note"
-        }
-      ],
-      "uuid": "613ddc33-14b8-4b86-95a1-75c96f317dbf"
-    },
-    {
       "start_time": 24,
       "end_time": 24,
       "annotation": [
