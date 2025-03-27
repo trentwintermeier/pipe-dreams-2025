@@ -43,27 +43,6 @@
       "uuid": "4b6e70be-8a33-42d9-8991-b2445cef713a"
     },
     {
-      "start_time": 32,
-      "end_time": 37,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Beyond the paved lines of the road, where the once-were animals find a place to slowly bleed out: this at least tells us that there is existing life to be potentially killed. In the Permian Basin, there is no roadkill, there is no present deadness. The absence of deadness on the side of the road isn’t a sign of life, it’s a sign of undeadness. Unoccupied street shoulders mean that everything is too dead for deadness."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Note",
-          "category": "Note"
-        }
-      ],
-      "uuid": "1ca2ab39-e00a-4ad6-ad0c-43a630aea1e6"
-    },
-    {
       "start_time": 40,
       "end_time": 40,
       "annotation": [
