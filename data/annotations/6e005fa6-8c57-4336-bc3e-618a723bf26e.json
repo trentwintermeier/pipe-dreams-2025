@@ -43,25 +43,6 @@
       "uuid": "4b6e70be-8a33-42d9-8991-b2445cef713a"
     },
     {
-      "start_time": 30,
-      "end_time": 30,
-      "annotation": [
-        {
-          "text": ""
-        },
-        {
-          "text": "A dead porcupine lies in the center of the photograph, just beyond the white line seperating the road from the shoulder. Unseen on the right side of the photograph is a natural gas and oil processing plant, alongside drilling rigs."
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Photograph",
-          "category": "Photograph"
-        }
-      ],
-      "uuid": "0bd1cb13-c6d6-4b50-a2a3-0b33db8ba5f9"
-    },
-    {
       "start_time": 32,
       "end_time": 37,
       "annotation": [
