@@ -22,27 +22,6 @@
       "uuid": "c3e81fdc-b552-4454-9f4c-ebded4e55a02"
     },
     {
-      "start_time": 41,
-      "end_time": 60,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Pipelines are absent themselves in parts of Texas, such as around Big Bend National Park. Terlingua, Texas—a small town of a couple hundred, west of the Park—is haunted by the underground which is filled with quicksilver, a material mined for years in the town by companies like Chisos Mining Company."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Note",
-          "category": "Note"
-        }
-      ],
-      "uuid": "2e08ad40-6488-4719-827a-ec3c0b332b0c"
-    },
-    {
       "start_time": 61,
       "end_time": 75,
       "annotation": [
