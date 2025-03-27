@@ -22,27 +22,6 @@
       "uuid": "393d5239-4cec-42ef-b525-46e1bca6925d"
     },
     {
-      "start_time": 12,
-      "end_time": 20,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Further into the Permian Basin. Everything beyond the road gets flatter. The headlights reveal more distance. The trees and animals previously occupying the perimeter of the road start to decrease in number. The blood spatterings are limited. Hours after seeing other signs of life, it becomes clear that the deadness of roadkill is a sign of some form of life."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Note",
-          "category": "Note"
-        }
-      ],
-      "uuid": "9a8996eb-4325-48a6-97ac-e2f40885264a"
-    },
-    {
       "start_time": 21,
       "end_time": 22,
       "annotation": [
