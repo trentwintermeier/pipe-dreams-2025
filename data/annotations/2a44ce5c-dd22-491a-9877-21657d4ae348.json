@@ -64,27 +64,6 @@
       "uuid": "38de33cb-f5f5-4f96-856a-f7e8ee47e652"
     },
     {
-      "start_time": 140,
-      "end_time": 160,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Either way, tourists continue to visit (bringing their own water; not to share, of course), mainly to visit the historic and haunted cemetery. When we visit, the gravesites make a border for kids of tourists to run around while playing tag, giggling. Under the site and around the kids’ feet are the buried remains of Chisos Mining Co workers, who often were crushed to death in collapsing mines."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Note",
-          "category": "Note"
-        }
-      ],
-      "uuid": "173cc45e-346b-4a82-a645-33751733a85a"
-    },
-    {
       "start_time": 162,
       "end_time": 163,
       "annotation": [
