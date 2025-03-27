@@ -64,25 +64,6 @@
       "uuid": "00e3ed1c-2070-4fe9-ac1c-f0ad1b0627ad"
     },
     {
-      "start_time": 47,
-      "end_time": 51,
-      "annotation": [
-        {
-          "text": ""
-        },
-        {
-          "text": "The Pecos river is photographed with a bridge. There is no water in the river, it's dry. There are bushes and dirt that take the place of water."
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Photograph",
-          "category": "Photograph"
-        }
-      ],
-      "uuid": "eef45363-f4dc-4307-bec2-77e599294b60"
-    },
-    {
       "start_time": 52,
       "end_time": 52,
       "annotation": [
