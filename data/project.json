@@ -9,7 +9,7 @@
     "github_org": "trentwintermeier",
     "is_private": false,
     "title": "Pipe Dreams: The Hum of Our Digital Environment",
-    "description": "\"Pipe Dreams\" is a project developed for the DHResearch Project Development Grant, which is associated with a Scalar project and art installation. The project has been funded by the Initiative for Digital Humanities and the Modern Language Association. It collects field notes, archival research, photographs, and audio recordings from the Trans-Pecos and Permian Basin to examine how sound is entangled affectively with the environment and the digital systems impacting it.",
+    "description": "\"Pipe Dreams\" is a project developed for the DHResearch Project Development Grant, which is associated with a Scalar project with the same title. The project has been funded by the Initiative for Digital Humanities and the Modern Language Association. It collects field notes, archival research, photographs, and audio recordings from the Trans-Pecos and Permian Basin to examine how sound is entangled affectively with the environment and the digital systems impacting it.",
     "language": "en",
     "slug": "pipe-dreams-2025",
     "creator": "trentwintermeier",
@@ -64,6 +64,8 @@
       ]
     },
     "created_at": "2025-01-19T17:33:59.930Z",
-    "updated_at": "2025-03-27T21:54:48.984Z"
-  }
+    "updated_at": "2025-03-27T21:55:39.403Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
 }
