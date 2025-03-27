@@ -207,27 +207,6 @@
         }
       ],
       "uuid": "0e56266f-486e-417c-a6c7-94ded89bf21d"
-    },
-    {
-      "start_time": 6,
-      "end_time": 6,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Grainy photograph of the compressor station with the sun rising in the distance."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Photograph",
-          "category": "Photograph"
-        }
-      ],
-      "uuid": "90565dee-1642-49d4-b583-1213adeaf7fd"
     }
   ],
   "set": "Default",
