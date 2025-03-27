@@ -43,27 +43,6 @@
       "uuid": "3677952e-8aa9-49aa-b22f-5717273d80ce"
     },
     {
-      "start_time": 18,
-      "end_time": 18,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "These plants stand alone; in every direction beyond the facility, pipelines extend underground in varying directions. Nothing can be built on top of them, so there are large colorless patches of something that used to be dirt around the entire Hub."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Note",
-          "category": "Note"
-        }
-      ],
-      "uuid": "7f5870af-2f2b-40df-a7d8-2ae17c7c2efd"
-    },
-    {
       "start_time": 19,
       "end_time": 21,
       "annotation": [
