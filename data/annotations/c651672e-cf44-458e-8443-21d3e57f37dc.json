@@ -22,27 +22,6 @@
       "uuid": "7da00b23-9de0-4532-8c8b-b3cae07e13fd"
     },
     {
-      "start_time": 20,
-      "end_time": 20,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The labels “Permian Basin” and “Trans-Pecos” are not synonymous, even though there is significant geographic overlap. The former refers to the geological region in west Texas that produces a majority of the US’s natural gas. It’s rich with oil and gas—and thus, energy—due to the presence of hydrocarbons fossilised during and after the Permian period. Layers and layers of deadness allow for the infrastructure that heats homes and supports digital tools."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Note",
-          "category": "Note"
-        }
-      ],
-      "uuid": "f8ad5cf1-e004-41fe-8584-35502a6e444b"
-    },
-    {
       "start_time": 21,
       "end_time": 21,
       "annotation": [
