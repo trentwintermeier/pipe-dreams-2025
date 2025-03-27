@@ -22,25 +22,6 @@
       "uuid": "aace4be0-3553-40b4-ae44-562063268e41"
     },
     {
-      "start_time": 10,
-      "end_time": 10,
-      "annotation": [
-        {
-          "text": ""
-        },
-        {
-          "text": "Photograph of a small, white station where the pressure of the gas pipeline can be measured. In the distance is a large gas processing plant with large ducts, fans, and tubes, producing an enormous amount of sound in the recording."
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Photograph",
-          "category": "Photograph"
-        }
-      ],
-      "uuid": "51455afb-c5bf-42a4-9676-38821c0d48c5"
-    },
-    {
       "start_time": 13,
       "end_time": 18,
       "annotation": [
