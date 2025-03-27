@@ -85,27 +85,6 @@
       "uuid": "0d39385a-accb-4205-b39f-a51e2d1b4965"
     },
     {
-      "start_time": 27,
-      "end_time": 33,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Since pipelines are, for the most part, buried underground, we turn to the surface to reveal what may or may not be hiding under us. Like roadkill just beyond the white lines of street roads, a perimeter of tree lines signify presence. Manufactured and artificial presence—the lack of a natural landscape."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Note",
-          "category": "Note"
-        }
-      ],
-      "uuid": "f6eba845-1ff0-462c-a358-5576bc833a4f"
-    },
-    {
       "start_time": 39,
       "end_time": 41,
       "annotation": [
