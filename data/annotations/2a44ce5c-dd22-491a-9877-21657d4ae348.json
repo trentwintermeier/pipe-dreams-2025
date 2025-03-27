@@ -2,27 +2,6 @@
   "annotations": [
     {
       "start_time": 0,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "A video of the sunrise over the mountains seperating Terlingua from Big Bend National Park."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Video",
-          "category": "Video"
-        }
-      ],
-      "uuid": "213433df-5508-497b-8e26-4749d9a5adb8"
-    },
-    {
-      "start_time": 0,
       "end_time": 40,
       "annotation": [
         {
