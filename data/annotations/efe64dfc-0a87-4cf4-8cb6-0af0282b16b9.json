@@ -106,25 +106,6 @@
       "uuid": "25a2e570-5948-46ca-bd19-0240eec9902b"
     },
     {
-      "start_time": 42,
-      "end_time": 42,
-      "annotation": [
-        {
-          "text": ""
-        },
-        {
-          "text": "Photograph of the landscape opposite of the compressor station. The break in the landscape signals the gas pipeline running to the compressor station."
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Photograph",
-          "category": "Photograph"
-        }
-      ],
-      "uuid": "0567b203-d5a5-4e6c-975a-4f9fc298ae99"
-    },
-    {
       "start_time": 43,
       "end_time": 43,
       "annotation": [
