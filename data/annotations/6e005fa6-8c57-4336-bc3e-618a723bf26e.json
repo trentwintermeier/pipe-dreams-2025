@@ -22,27 +22,6 @@
       "uuid": "393d5239-4cec-42ef-b525-46e1bca6925d"
     },
     {
-      "start_time": 5,
-      "end_time": 10,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "We continue driving west, into the small towns that have no street lights. The only guide is our headlights, which show us the trees and the sparkling eyes of animals on the perimeter of the road. They also show us the puddles of blood in the street that turn into streaks as roadkill gets pulled to the side of the road. We continue to drive with both hands on the wheel, waiting for something to jump out into the headlights."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Note",
-          "category": "Note"
-        }
-      ],
-      "uuid": "1370fe79-eca2-45c9-a121-da27b1cb105a"
-    },
-    {
       "start_time": 12,
       "end_time": 20,
       "annotation": [
