@@ -22,27 +22,6 @@
       "uuid": "c3e81fdc-b552-4454-9f4c-ebded4e55a02"
     },
     {
-      "start_time": 61,
-      "end_time": 75,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "We drive into the town, where we stay at an AirBnB in the Ghost Town. Water is scarce here, too, of course, so we can’t shower. There wasn’t enough rain this past year, so the host recommends keeping our hands off all faucets in the house. It’s unclear how much drinking water is left underground with the quicksilver; it could be hundreds of years, or not even one."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Note",
-          "category": "Note"
-        }
-      ],
-      "uuid": "6dd37ef1-deba-4a5d-a86e-adeff97c28ab"
-    },
-    {
       "start_time": 77,
       "end_time": 128,
       "annotation": [
