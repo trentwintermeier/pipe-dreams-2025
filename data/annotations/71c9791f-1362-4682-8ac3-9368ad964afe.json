@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 0,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "On a long driving day, we traveled to the Waha Hub, a major intersection of national and international gas pipelines around the Permian Basin—just north of Coyanosa, Texas. It’s absolutely colorless and lacking vibrancy of any sort. It sounds manufactured and unnatural, like a cacophony of pumps and fans, which look to be in service of at least ten natural gas processing plants."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Note",
-          "category": "Note"
-        }
-      ],
-      "uuid": "5b38dbfb-2c76-4ed4-a466-9de71c3b6952"
-    },
-    {
       "start_time": 1,
       "end_time": 10,
       "annotation": [
