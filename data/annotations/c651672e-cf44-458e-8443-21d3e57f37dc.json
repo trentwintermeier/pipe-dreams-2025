@@ -64,27 +64,6 @@
       "uuid": "00e3ed1c-2070-4fe9-ac1c-f0ad1b0627ad"
     },
     {
-      "start_time": 40,
-      "end_time": 45,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The latter area of the Trans-Pecos refers to the region west of the Pecos River. The waterway has characterized this region, but now the water isn’t there. What used to be the Pecos River is now a basin; a container with the purpose of holding water."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Note",
-          "category": "Note"
-        }
-      ],
-      "uuid": "b8dcbce0-449a-42a2-8f4e-042d12f096c2"
-    },
-    {
       "start_time": 47,
       "end_time": 51,
       "annotation": [
