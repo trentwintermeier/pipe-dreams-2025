@@ -106,27 +106,6 @@
       "uuid": "25a2e570-5948-46ca-bd19-0240eec9902b"
     },
     {
-      "start_time": 41,
-      "end_time": 42,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Frictions that are below and above ground emerge from something that may not exist. We notice that the tension between perimeters is responsible for the affective force of high-pressure natural gas pipelines."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Note",
-          "category": "Note"
-        }
-      ],
-      "uuid": "ead9b895-4094-4eb0-a384-a203af9d108a"
-    },
-    {
       "start_time": 42,
       "end_time": 42,
       "annotation": [
