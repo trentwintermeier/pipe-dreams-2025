@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 0,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The earliest morning is the first day. We can’t sleep, so we’re out by four in the morning, exploring the small city of Sonora, Texas. Only minutes south of the city center—which is only one hotel off the highway, closed auto body shops, and a convenience store—there are unique gas pipeline networks throughout the tree-lined hills."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Note",
-          "category": "Note"
-        }
-      ],
-      "uuid": "41a6a9a2-ca2f-4c94-800a-6f08802c7397"
-    },
-    {
       "start_time": 1,
       "end_time": 6,
       "annotation": [
