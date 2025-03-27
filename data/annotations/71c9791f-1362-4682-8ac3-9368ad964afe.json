@@ -65,25 +65,6 @@
     },
     {
       "start_time": 22,
-      "end_time": 22,
-      "annotation": [
-        {
-          "text": ""
-        },
-        {
-          "text": "A wood and wire fenceline is in the foreground of the photograph, with a large, open wasteland of dirt in the background. The land is uninabited because of the pipelines underneath, which make up a large infrastructural network within and beyond the Waha Hub."
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Photograph",
-          "category": "Photograph"
-        }
-      ],
-      "uuid": "834b9c0f-d39e-48df-857d-713d74e12d39"
-    },
-    {
-      "start_time": 22,
       "end_time": 24,
       "annotation": [
         {
