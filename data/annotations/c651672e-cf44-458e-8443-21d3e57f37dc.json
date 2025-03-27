@@ -22,25 +22,6 @@
       "uuid": "7da00b23-9de0-4532-8c8b-b3cae07e13fd"
     },
     {
-      "start_time": 21,
-      "end_time": 21,
-      "annotation": [
-        {
-          "text": ""
-        },
-        {
-          "text": "Photograph of a sign at the eastern end of Pecos which says \"Welcome to Pecos, Texas.\". "
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Photograph",
-          "category": "Photograph"
-        }
-      ],
-      "uuid": "90a8e2e0-a0b7-42bc-a95a-a3705f6f74fe"
-    },
-    {
       "start_time": 20,
       "end_time": 27,
       "annotation": [
